@@ -8,3 +8,4 @@ for (char i=0; i<10;i++){
 ```
 
 [link na repositar](https://github.com/alpov/SPST)
+zmena test
